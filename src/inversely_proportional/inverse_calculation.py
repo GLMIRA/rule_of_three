@@ -4,6 +4,3 @@ def valida_valor(numbers: list) -> list:
             isinstance(number, float)
         except:
             ValueError
-
-
-contas_
